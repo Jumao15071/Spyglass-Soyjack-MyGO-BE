@@ -1,0 +1,42 @@
+{
+  "format_version": 2,
+  
+  "header": {
+
+    "name": "It's MyGO！！！！！望远镜",
+
+    "description": "§6点击齿轮可选择不同预设的子包",
+
+    "uuid": "f62d7295-e012-48d0-9e1b-7b5940e09c95",
+
+    "version": [ 1, 0, 0 ],
+
+    "min_engine_version": [ 1, 18, 0 ]
+
+  },
+  "modules": [
+    {
+
+      "type": "resources",
+
+      "description": "基岩版纹理与功能移植 @橘猫sama",
+
+      "uuid": "a55b6d64-53c8-4bf8-b095-a3116d0a667c",
+
+      "version": [ 1, 0, 0 ]
+
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "B",
+      "name": "校服差分",
+      "memory_tier": 1
+    },
+    {
+      "folder_name": "A",
+      "name": "探险服差分",
+      "memory_tier": 0
+    }
+  ]
+}
